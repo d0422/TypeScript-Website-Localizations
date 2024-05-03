@@ -1,3 +1,12 @@
+---
+title: Modules - Theory
+short: Theory
+layout: docs
+permalink: /ko/docs/handbook/modules/theory.html
+oneline: Typescript가 Javascript 모듈을  모델링 하는 방법
+translatable: true
+---
+
 ## JS의 모듈과 스크립트
 
 JS가 브라우저에서만 실행되던 초기에는 모듈이 없었지만 HTML에서 여러 스크립트 태그를 사용하여 웹 페이지의 자바스크립트를 여러 파일로 분할하는 것이 가능해졌습니다.
